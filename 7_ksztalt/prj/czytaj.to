@@ -1,0 +1,22 @@
+Niniejszy przyklad jest rozszerzeniem przykladu dostarczonego
+do zadania nr 5.1. Zawiera on dodatkowy modul "ElementyPowierzchni.cpp".
+
+Przyklad demonstruje operacje, ktorych wykonanie prowadza
+do powstania elementow powierzchni.
+Nalezy pamietac jednak, ze dostarczony kod nie jest pisany
+obiektowo i wymaga gruntownej przebudowy, aby dostosowac go
+do wymogow zadania.
+
+Dla osob chcacych skorzystac z latwiejszych wariantow zadania,
+w kartotece bryly_wzorcowe umieszczone zostaly pliki:
+"gora_z_dluga_grania.dat", "gora_z_ostrym_szczytem.dat"
+oraz "plaskowyz.dat", ktore zawieraja odpowiednio zdeformowane
+wspolrzedne wierzcholkow.
+
+Pliki dostepne sa na panamincie oraz w ePortalu.
+W przpadku kopiowania na panamincie, aby skorzystac
+z niniejszego przykladu, nalezy przekopiowac cala zawartosc
+kartoteki do swojej wlasnej, np.
+
+  cp ~bk/edu/kpo/zad/z5.2/przyklad-ksztaltowania-powierzchni  ~
+
